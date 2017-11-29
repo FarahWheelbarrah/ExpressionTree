@@ -1,0 +1,10 @@
+﻿  ExprTree.cpp
+c:\users\andre\onedrive\documents\university\year 3\semester 1\data structures and algorithms\assignment 1\assignment1\assignment1\exprtree.cpp(65): warning C4018: '<': signed/unsigned mismatch
+c:\users\andre\onedrive\documents\university\year 3\semester 1\data structures and algorithms\assignment 1\assignment1\assignment1\exprtree.cpp(76): warning C4018: '<': signed/unsigned mismatch
+c:\users\andre\onedrive\documents\university\year 3\semester 1\data structures and algorithms\assignment 1\assignment1\assignment1\exprtree.cpp(112): warning C4018: '<': signed/unsigned mismatch
+c:\users\andre\onedrive\documents\university\year 3\semester 1\data structures and algorithms\assignment 1\assignment1\assignment1\exprtree.cpp(186): warning C4018: '<': signed/unsigned mismatch
+c:\users\andre\onedrive\documents\university\year 3\semester 1\data structures and algorithms\assignment 1\assignment1\assignment1\exprtree.cpp(206): warning C4018: '<': signed/unsigned mismatch
+c:\users\andre\onedrive\documents\university\year 3\semester 1\data structures and algorithms\assignment 1\assignment1\assignment1\exprtree.cpp(319): warning C4018: '<': signed/unsigned mismatch
+c:\users\andre\onedrive\documents\university\year 3\semester 1\data structures and algorithms\assignment 1\assignment1\assignment1\exprtree.cpp(233): warning C4715: 'ExprTree::evaluate': not all control paths return a value
+  Assignment1.vcxproj -> C:\Users\andre\OneDrive\Documents\University\Year 3\Semester 1\Data Structures and Algorithms\Assignment 1\Assignment1\Debug\Assignment1.exe
+  Assignment1.vcxproj -> C:\Users\andre\OneDrive\Documents\University\Year 3\Semester 1\Data Structures and Algorithms\Assignment 1\Assignment1\Debug\Assignment1.pdb (Partial PDB)
